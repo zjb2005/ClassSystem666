@@ -21,6 +21,8 @@ Form::Form(QWidget *parent)
 // mainLayout->addWidget(new QTextEdit);
 
 // setLayout(mainLayout);
+
+// setLayout(mainLayout);
 Form::~Form()
 {
     delete ui;

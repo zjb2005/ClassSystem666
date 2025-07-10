@@ -1,5 +1,0 @@
-set(__QT_DEPLOY_TARGET_QXlsx_FILE D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/QXlsx/libQXlsxQt6.a)
-set(__QT_DEPLOY_TARGET_QXlsx_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_classsystem_FILE D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/classsystem.exe)
-set(__QT_DEPLOY_TARGET_classsystem_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_classsystem_RUNTIME_DLLS D:/Qt/6.9.1/mingw_64/bin/Qt6PrintSupport.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Widgets.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Multimedia.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Gui.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Network.dll;D:/Qt/6.9.1/mingw_64/bin/Qt6Core.dll)

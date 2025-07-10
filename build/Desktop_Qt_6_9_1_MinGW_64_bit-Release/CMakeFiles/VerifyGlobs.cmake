@@ -74,19 +74,7 @@ set(OLD_GLOB
   "D:/qtpro/classsystem/QXlsx/source/xlsxworksheet.cpp"
   "D:/qtpro/classsystem/QXlsx/source/xlsxzipreader.cpp"
   "D:/qtpro/classsystem/QXlsx/source/xlsxzipwriter.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/6OFTS6FJJP/moc_xlsxdocument.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/mocs_compilation.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_classnumbersetform.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_classset.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_form.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_printAPI.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_printerclassesresult.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_startclassform.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/moc_widget.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/EWIEGA46WW/qrc_rec.cpp"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/mocs_compilation.cpp"
   "D:/qtpro/classsystem/classdata.cpp"
   "D:/qtpro/classsystem/classnumbersetform.cpp"
   "D:/qtpro/classsystem/classset.cpp"
@@ -162,14 +150,6 @@ set(OLD_GLOB
   "D:/qtpro/classsystem/QXlsx/header/xlsxworksheet_p.h"
   "D:/qtpro/classsystem/QXlsx/header/xlsxzipreader_p.h"
   "D:/qtpro/classsystem/QXlsx/header/xlsxzipwriter_p.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/QXlsx/QXlsx_autogen/moc_predefs.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/include/ui_classnumbersetform.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/include/ui_classset.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/include/ui_form.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/include/ui_printerclassesresult.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/include/ui_startclassform.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/include/ui_widget.h"
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/classsystem_autogen/moc_predefs.h"
   "D:/qtpro/classsystem/classdata.h"
   "D:/qtpro/classsystem/classes.h"
   "D:/qtpro/classsystem/classnumbersetform.h"
@@ -271,7 +251,6 @@ endif()
 # _directory_contents at D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/qtpro/classsystem/*.qs")
 set(OLD_GLOB
-  "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.qs"
   "D:/qtpro/classsystem/build/Desktop_Qt_6_9_1_MinGW_64_bit-Release/.qtc/package-manager/maintenance_tool_provider.qs"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
