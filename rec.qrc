@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/1.mp3</file>
+        <file>icons/checked.png</file>
+    </qresource>
+</RCC>
